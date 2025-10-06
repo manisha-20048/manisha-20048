@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# 💫 About Me:
+Aspiring Python Full Stack Developer currently undergoing hands-on training to build strong skills in both front-end and back-end development. I am passionate about coding and eager to learn modern technologies like Python (Django, Flask), JavaScript frameworks, and database management.<br>As a dedicated trainee, I am focused on:<br><br>Developing clean, efficient code<br><br>Building responsive web applications<br><br>Understanding software development life cycle and best practices<br><br>Collaborating and growing in a team environment
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manisha-20048&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=manisha-20048&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-20048&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **manisha-20048/manisha-20048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
